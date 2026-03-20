@@ -1,0 +1,32 @@
+project_id = "qsulolldyzdlklhsasza"
+
+[functions.analyze-file]  
+verify_jwt = false  
+[functions.doc-chat]  
+verify_jwt = false  
+[functions.categorize-files]  
+verify_jwt = false  
+[functions.deep-categorize]  
+verify_jwt = false  
+[functions.smart-search]  
+verify_jwt = false  
+[functions.hybrid-search]  
+verify_jwt = false  
+[functions.semantic-search]  
+verify_jwt = false  
+[functions.support-chat]  
+verify_jwt = false  
+[functions.whatsapp-webhook]  
+verify_jwt = false 
+
+[functions.gdrive-api]
+verify_jwt = false
+
+[functions.check-expiry]
+verify_jwt = false
+
+[functions.get-shared-file]
+verify_jwt = false
+
+[functions.send-whatsapp-otp]
+verify_jwt = false
